@@ -1,8 +1,8 @@
-# Projeto Final - API REST
+# Projeto - Testes Automatizados I
 
-#### ✒️ Autores: [Bruno Tavares](https://www.linkedin.com/in/brunoviniciusdev/) - [Ingrid Maciel](https://www.linkedin.com/in/ingrid-m-maciel/) - [Pedro Renan](https://www.linkedin.com/in/pedrorenan/) - [Vitor Tavares](https://www.linkedin.com/in/vitortavares1/)
+Este projeto foi desenvolvido com base no projeto criado durante o módulo API REST pelos autores [Bruno Tavares](https://www.linkedin.com/in/brunoviniciusdev/), [Ingrid Maciel](https://www.linkedin.com/in/ingrid-m-maciel/), [Pedro Renan](https://www.linkedin.com/in/pedrorenan/) e [Vitor Tavares](https://www.linkedin.com/in/vitortavares1/). Neste projeto, adicionei testes automatizados para garantir a qualidade e a confiabilidade do código.
 
-### 📜 Enunciado:
+### 📜 Enunciado API REST:
 
 Desenvolva uma API REST com tema livre, sendo obrigatório consumir uma API pública.
 
@@ -27,6 +27,16 @@ Construir uma API
 - HTML
 - CSS
 
+---
+
+### ✅ Testes Automatizados:
+
+Para garantir a qualidade e a estabilidade do nosso código, foram implementados testes unitários utilizando as seguintes ferramentas:
+
+- **JUnit**: Framework de testes unitários para Java.
+- **Mockito**: Biblioteca para criação de objetos mock em testes.
+- **Spring Test**: Suporte para testes de integração com Spring.
+  
 ---
 
 ### ⚙️ Funcionalidades:
